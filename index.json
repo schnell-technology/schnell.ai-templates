@@ -1,5 +1,5 @@
 [{
-    "name": "blank",
-    "desc": "Default template",
-    "url": "https://raw.githubusercontent.com/schnell-technology/schnell.ai-templates/master/templates/default.json"
+    "Name": "blank",
+    "Description": "Default template",
+    "URL": "https://raw.githubusercontent.com/schnell-technology/schnell.ai-templates/master/templates/default.json"
 }]
